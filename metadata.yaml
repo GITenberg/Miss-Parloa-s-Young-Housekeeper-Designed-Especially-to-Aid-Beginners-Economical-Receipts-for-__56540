@@ -1,5 +1,8 @@
 _repo: Miss-Parloa-s-Young-Housekeeper-Designed-Especially-to-Aid-Beginners-Economical-Receipts-for-__56540
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56540-h/images/cover.jpg
 creator:
   author:
     agent_name: Parloa, Maria
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2186
     wikipedia: http://en.wikipedia.org/wiki/Maria_Parloa
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56540#Miss-Parloa-s-Young-Housekeeper-Designed-Especially-to-Aid-Beginners-Economical-Receipts-for-_
 gutenberg_issued: '2018-02-11'
 gutenberg_type: Text
 identifiers:
